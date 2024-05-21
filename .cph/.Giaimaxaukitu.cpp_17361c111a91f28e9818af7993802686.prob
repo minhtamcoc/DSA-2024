@@ -1,0 +1,1 @@
+{"name":"Local: Giaimaxaukitu","url":"d:\\SpanningTrees\\Giaimaxaukitu.cpp","tests":[{"id":1711225326871,"input":"2\n1[b]\n3[b2[ca]]","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\Giaimaxaukitu.cpp","group":"local","local":true}

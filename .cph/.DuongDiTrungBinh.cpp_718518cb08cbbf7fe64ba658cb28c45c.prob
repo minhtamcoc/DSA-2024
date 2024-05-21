@@ -1,0 +1,1 @@
+{"name":"Local: DuongDiTrungBinh","url":"d:\\SpanningTrees\\DuongDiTrungBinh.cpp","tests":[{"id":1714834799796,"input":"2\n\n4 5\n\n1 2\n\n2 4\n\n1 3\n\n3 1\n\n4 3\n\n7 5\n\n1 2\n\n1 4\n\n4 2\n\n2 7\n\n7 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\DuongDiTrungBinh.cpp","group":"local","local":true}

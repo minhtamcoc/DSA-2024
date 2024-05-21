@@ -1,0 +1,1 @@
+{"name":"Local: Test_Mr_Son_bai_3_2","url":"d:\\SpanningTrees\\Test_Mr_Son_bai_3_2.cpp","tests":[{"id":1715371410173,"input":"5 5\n\n-9 -1 -3 6 -6\n\n8 -3 3 -7 2\n\n4 -3 1 -10 -9\n\n-4 -8 -2 -3 -10\n\n-7 7 5 4 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\Test_Mr_Son_bai_3_2.cpp","group":"local","local":true}

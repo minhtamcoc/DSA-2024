@@ -1,0 +1,1 @@
+{"name":"Local: TÉT","url":"d:\\SpanningTrees\\TÉT.cpp","tests":[{"id":1710599854479,"input":"1\n(A+B*C)-(A/B+C)","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\TÉT.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: KETBAN","url":"d:\\SpanningTrees\\KETBAN.cpp","tests":[{"id":1712012813018,"input":"2\n3 2\n1 2\n2 3\n10 12\n1 2\n3 1\n3 4\n5 4\n3 5\n4 6\n5 2\n2 1\n7 1\n1 2\n9 10\n8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\KETBAN.cpp","group":"local","local":true}

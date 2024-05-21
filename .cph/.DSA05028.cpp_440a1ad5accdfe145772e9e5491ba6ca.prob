@@ -1,0 +1,1 @@
+{"name":"Local: DSA05028","url":"d:\\SpanningTrees\\DSA05028.cpp","tests":[{"id":1709671715141,"input":"3\nabcd abcd\nabcd efgh\nabcde acdbe","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\DSA05028.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: biendoitiento-hauto","url":"d:\\SpanningTrees\\biendoitiento-hauto.cpp","tests":[{"id":1710781553734,"input":"2\n*+AB-CD\n*-A/BC-/AKL","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\biendoitiento-hauto.cpp","group":"local","local":true}

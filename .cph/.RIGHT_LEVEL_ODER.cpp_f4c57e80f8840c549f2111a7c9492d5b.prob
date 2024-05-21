@@ -1,0 +1,1 @@
+{"name":"Local: RIGHT_LEVEL_ODER","url":"d:\\SpanningTrees\\RIGHT_LEVEL_ODER.cpp","tests":[{"id":1715736887422,"input":"1\n7\n50 70 30 40 20 80 60","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\RIGHT_LEVEL_ODER.cpp","group":"local","local":true}

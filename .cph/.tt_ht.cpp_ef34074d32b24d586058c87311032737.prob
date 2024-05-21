@@ -1,0 +1,1 @@
+{"name":"Local: tt_ht","url":"d:\\SpanningTrees\\tt_ht.cpp","tests":[{"id":1710829647067,"input":"2\n7\n6 2 5 4 5 1 6\n3\n2 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\tt_ht.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: biendoitiento_trungto","url":"d:\\SpanningTrees\\biendoitiento_trungto.cpp","tests":[{"id":1710784187444,"input":"2\n*+AB-CD\n*-A/BC-/AKL","output":""},{"id":1710837770658,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\biendoitiento_trungto.cpp","group":"local","local":true}

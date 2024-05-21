@@ -1,0 +1,1 @@
+{"name":"Local: DSA03024","url":"d:\\SpanningTrees\\DSA03024.cpp","tests":[{"id":1709622055860,"input":"3\n2\n1.0 1.0\n1.5 0.0\n3\n1.0 1.0\n1.0 1.0\n1.0 1.0\n6\n1.5 9.0\n2.0 2.0\n2.5 6.0\n3.0 5.0\n4.0 2.0\n10.0 5.5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\DSA03024.cpp","group":"local","local":true}

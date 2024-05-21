@@ -1,0 +1,1 @@
+{"name":"Local: Test_Mr_Tien_DongMoNgoac","url":"d:\\SpanningTrees\\Test_Mr_Tien_DongMoNgoac.cpp","tests":[{"id":1716077430528,"input":"3\n((a)\n(a))\n(((abc))((d)))))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\Test_Mr_Tien_DongMoNgoac.cpp","group":"local","local":true}

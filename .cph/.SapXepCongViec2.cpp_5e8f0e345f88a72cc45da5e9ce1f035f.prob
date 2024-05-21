@@ -1,0 +1,1 @@
+{"name":"Local: SapXepCongViec2","url":"d:\\SpanningTrees\\SapXepCongViec2.cpp","tests":[{"id":1715917628558,"input":"2\n4\n1 4 20\n\n2 1 10\n\n3 1 40\n\n4 1 30\n5\n1 2 100\n\n2 1 19\n\n3 2 27\n\n4 1 25\n\n5 1 15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\SapXepCongViec2.cpp","group":"local","local":true}

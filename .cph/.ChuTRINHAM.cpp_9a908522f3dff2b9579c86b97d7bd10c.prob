@@ -1,0 +1,1 @@
+{"name":"Local: ChuTRINHAM","url":"d:\\SpanningTrees\\ChuTRINHAM.cpp","tests":[{"id":1711772841941,"input":"1\n3\n.X.\n.X.\n...\n1 0 0 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\ChuTRINHAM.cpp","group":"local","local":true}

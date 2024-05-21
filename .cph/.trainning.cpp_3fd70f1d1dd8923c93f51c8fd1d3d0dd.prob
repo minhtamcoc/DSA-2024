@@ -1,0 +1,1 @@
+{"name":"Local: trainning","url":"d:\\SpanningTrees\\trainning.cpp","tests":[{"id":1710225805497,"input":"2\n5 8 13\ngeeks geeksfor geeksforgeeks\n7 6 5\nabcd1e2 bc12ea bd1ea","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\trainning.cpp","group":"local","local":true}

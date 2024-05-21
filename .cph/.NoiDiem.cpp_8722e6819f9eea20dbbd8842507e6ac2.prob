@@ -1,0 +1,1 @@
+{"name":"Local: NoiDiem","url":"d:\\SpanningTrees\\NoiDiem.cpp","tests":[{"id":1714901783872,"input":"1\n3\n1.0 1.0\n2.0 2.0\n2.0 4.0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\NoiDiem.cpp","group":"local","local":true}

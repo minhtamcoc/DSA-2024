@@ -1,0 +1,1 @@
+{"name":"Local: biendoihauto_tiento","url":"d:\\SpanningTrees\\biendoihauto_tiento.cpp","tests":[{"id":1710785666474,"input":"2\nAB+CD-*\nABC/-AK/L-*","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\biendoihauto_tiento.cpp","group":"local","local":true}

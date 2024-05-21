@@ -1,0 +1,1 @@
+{"name":"Local: LIS","url":"d:\\SpanningTrees\\LIS.cpp(thamlam+quyhoachdong).cpp","tests":[{"id":1710513708513,"input":"8\n1 3\n3 2\n1 1\n4 5\n6 3\n9 9\n8 7\n7 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\LIS.cpp(thamlam+quyhoachdong).cpp","group":"local","local":true}

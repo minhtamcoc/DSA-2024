@@ -1,0 +1,1 @@
+{"name":"Local: Test_Mr_tien bai2(tgt Hauto_2)","url":"d:\\SpanningTrees\\Test_Mr_tien bai2(tgt Hauto_2).cpp","tests":[{"id":1715283355820,"input":"3\n7\n2 3 1 * + 9 -\n7\n- + 8 * 7 5 9\n3\n-10 -4 +","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\Test_Mr_tien bai2(tgt Hauto_2).cpp","group":"local","local":true}

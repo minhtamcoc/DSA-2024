@@ -1,0 +1,1 @@
+{"name":"Local: Test_Mr_Tien","url":"d:\\SpanningTrees\\Test_Mr_Tien.cpp","tests":[{"id":1715372688167,"input":"4\n((a)\n(a))\n(((abc))((d)))))\n((a+b)-(c+d)","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\Test_Mr_Tien.cpp","group":"local","local":true}

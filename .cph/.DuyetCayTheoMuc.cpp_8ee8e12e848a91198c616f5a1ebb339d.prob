@@ -1,0 +1,1 @@
+{"name":"Local: DuyetCayTheoMuc","url":"d:\\SpanningTrees\\DuyetCayTheoMuc.cpp","tests":[{"id":1713250868271,"input":"1\n4\n10 20 L 10 30 R 20 40 L 20 60 R","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\DuyetCayTheoMuc.cpp","group":"local","local":true}
