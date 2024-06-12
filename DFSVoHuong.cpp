@@ -19,6 +19,7 @@ void DIJKSTRA(int s){
             if(!visited[i]&&du>dp[i]){
                 du=dp[i];
                 idx=i;
+                
             }
         }
         visited[idx]=true;

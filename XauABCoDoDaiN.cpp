@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int n,k;
-int a[100];
+int a[1000];
 bool check(int a[]){
     int cnt=0;
     for(int i=1;i<=n;i++){

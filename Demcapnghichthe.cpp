@@ -12,7 +12,6 @@ long long merge(long long a[],int l,int m,int r){
             i++;
         }
         else{
-            cnt+=x.size()-i;
             a[l]=y[j];
             j++;
         }

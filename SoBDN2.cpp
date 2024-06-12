@@ -12,24 +12,17 @@ int check(string s){
 }
 void solve(int n){
     queue<string> q;
-    q.push("44");
-    q.push("55");
-    q.push("54");
-    q.push("45");
-    int cnt=0;
+    q.push("4");
+    q.push("5"); 
     while(1){
         string tmp=q.front();
         q.pop();
-        if(cnt==n) break;
         if(check(tmp)){
             cnt++;
             cout<<tmp<<" ";
         }
-        q.push(tmp+"44");
-        q.push(tmp+"55");
-        q.push(tmp+"54");
-        q.push(tmp+"45");
-    
+        q.push(tmp+"4");
+        q.push(tmp+"5");
 }
 int main(){
     int t;

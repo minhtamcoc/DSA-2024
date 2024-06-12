@@ -1,46 +1,47 @@
-#include<iostream>
-#include<string>
-#include<set>
-#include<vector>
-#include<queue>
+#include<bits/stdc++.h>
 using namespace std;
-set<string> X;
-int BFS(string a, string b) {
-	if (a == b || X.count(b) == 0)return 0;
-	int n = a.size();
-	queue<pair<string,int>> S;
-	S.push({ a,1 });
-	while (S.size()) {
-		string s = S.front().first;
-		int cnt = S.front().second;
-		if (s == b)return cnt;
-		S.pop();
-		for (int i = 0; i < n; i++) {
-			char c = s[i];
-			for (int j = 'A'; j <= 'Z'; j++) {
-				s[i] = j;
-				if (s == b)return cnt + 1;
-				if (X.count(s) != 0) {
-					X.erase(s);
-					S.push({s,cnt+1});
-				}
-			}
-			s[i] = c;
-		}
-	}
+int check(string a,string b){
+    int cnt=0;
+    for(int i=0;i<a.size();i++){
+        if(a[i]!=b[i]) cnt++;
+    }
+    return cnt;
 }
-int main() {
-	int t; cin >> t;
-	while (t--) {
-		X.clear();
-		int n; string a, b;
-		cin >> n >> a >> b;
-		int cnt = 0;
-		while (n--) {
-			string f; cin >> f;
-			if (f != a)
-				X.insert(f);
-		}
-		cout << BFS(a, b) << endl;
-	}
+int solve(string s,string t,vector<string> a){
+    if(s==t) return 0;
+    queue<pair<string,int>> q;
+    q.push({s,1});
+    set<string> st;
+    st.insert(s);
+    while(!q.empty()){
+        pair<string,int> tmp=q.front();
+        string x=tmp.first;
+        int cnt=tmp.second;
+        q.pop();
+        if(x==t){
+            cout<<cnt<<endl;
+            break;
+        }
+        for(int i=0;i<a.size();i++){
+            if(check(x,a[i])==1&&st.count(a[i])==0){
+                q.push({a[i],cnt+1});
+                st.insert(a[i]);
+            }
+        }
+    }
+}
+int main(){
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        string s,t;
+        string tmp;
+        vector<string> a(n);
+        cin>>s>>t;
+        for(int i=0;i<n;i++) cin>>a[i];
+        solve(s,t,a);
+    }
+    return 0;
 }

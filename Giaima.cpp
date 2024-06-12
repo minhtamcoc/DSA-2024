@@ -20,7 +20,6 @@ int main(){
     while(t--){
         string s;
         cin>>s;
-        cout<<check(s)<<endl;
     }
     return 0;
 }

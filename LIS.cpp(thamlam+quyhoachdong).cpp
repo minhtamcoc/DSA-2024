@@ -22,4 +22,5 @@ int main(){
     int b[n+1];
     for(int i=0;i<n;i++) cin>>a[i]>>b[i];
     cout<<lis(a,b,n)<<endl;
+    return 0;
 }

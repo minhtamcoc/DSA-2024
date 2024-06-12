@@ -1,0 +1,1 @@
+{"name":"Local: Cay Nhi Phan Tong","url":"d:\\SpanningTrees\\Cay Nhi Phan Tong.cpp","tests":[{"id":1716738615150,"input":"2 \n2 \n3 1 L 3 2 R \n4 \n10 20 L 10 30 R 20 40 L 20 60 R","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SpanningTrees\\Cay Nhi Phan Tong.cpp","group":"local","local":true}

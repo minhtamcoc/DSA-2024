@@ -5,7 +5,7 @@ string check(long long n,long long k,vector<long long>& v){
     multiset<long long> st;
     for(int i=1;i<n+1;i++) st.insert(v[i]);
     for(int i=0;i<n+1;i++){
-        if(st.count(v[i]-k)!=0) return "YES";
+        if(st.count(v[i]+k)!=0) return "YES";
     }
     return "NO";
 }

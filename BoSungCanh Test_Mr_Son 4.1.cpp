@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int V,E;
-int parents[1001];
-int num[1001];
+int parents[100005];
+int num[100005];
 void Setup(){
 	for(int i=1;i<=V;i++){
 		parents[i]=i;
@@ -11,7 +11,7 @@ void Setup(){
 }
 int Find(int u){
 	if(u==parents[u]) return u;
-	return Find(parents[u]);
+	return  parents[u]=Find(parents[u]);
 }
 void Union(int u,int v){
 	int a=Find(u);

@@ -20,6 +20,7 @@ bool bfs(int u){
     }
     return true;
 }
+stack<int> s
 void solve(){
     cin>>V>>E;
     for(int i=1;i<=E;i++){

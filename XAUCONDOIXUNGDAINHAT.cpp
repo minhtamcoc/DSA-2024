@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-bool dp[1001][1001];
+bool dp[1001][1001]; //5028
 int main(){
     int t;
     cin>>t;
