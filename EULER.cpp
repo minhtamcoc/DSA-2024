@@ -14,7 +14,6 @@ void EULER(){
                 st.push(i);
                 ok=1;
                 a[k][i]=0;
-                a[i][k]=0;
                 break;
             }
         }
@@ -23,17 +22,11 @@ void EULER(){
             ce.push(k);
         }
     }
-    stack<int> cycle;
-    while(!ce.empty()){
-        int k=ce.top();
-        ce.pop();
-        cycle.push(k);
-    }
-    while(!cycle.empty()){
-        int k=cycle.top();
-        cycle.pop();
-        cout<<k<<" ";
-    }
+   while(!ce.empty()){
+    int k=ce.top();
+    ce.pop();
+    cout<<k<<" ";
+   }
 }
 int main(){
     cin>>n>>s;
